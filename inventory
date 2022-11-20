@@ -1,0 +1,3 @@
+192.168.100.24 ansible_ssh_user=server01
+192.168.100.25 ansible_ssh_user=server02
+192.168.100.63 ansible_ssh_user=root
